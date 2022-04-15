@@ -1,5 +1,5 @@
-# CSP1150 Assignment 1
-# Author: Aaron Martin - 10526100
+
+# Author: Aaron Martin 
 # This program is a loot box simulator. 
 # It allows the user to purchase gems,
 # which allow the user to purchase loot boxes which can then be opened.
