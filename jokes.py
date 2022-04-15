@@ -1,5 +1,5 @@
 # Name:  Aaron Martin
-# Student Number:  10526100
+
 
 # This file is provided to you as a starting point for the "jokes.py" program of Assignment 2
 # of Programming Principles in Semester 1, 2020.  It aims to give you just enough code to help ensure
